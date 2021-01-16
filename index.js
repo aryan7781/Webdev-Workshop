@@ -4,7 +4,7 @@ const app = express();
 const path = require("path");
 require("dotenv").config();
 const port = process.env.PORT;
-const db = require("./config/mongoose");
+//const db = require("./config/mongoose");
 // const passport_jwt = require("./config/passport_jwt");
 
 //bodyParser
